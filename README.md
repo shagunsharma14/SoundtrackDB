@@ -75,3 +75,4 @@ where input_file.xml is the name of the input XML file and output_file.db is the
 
 Accessing the Database
 To access the itune_tracks_db_sqllite database, use any SQLite client or library. The database file is a standalone file that can be moved, copied, or shared as needed.
+
